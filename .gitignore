@@ -1,0 +1,9 @@
+#Ignore .mvnw files
+**/mvnw
+**/mvnw.cmd
+
+**/ .mvn/
+
+**/ .idea/
+
+**/.gitattributes
